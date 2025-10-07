@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Flat",
+    "preamp": 0,
+    "panner": 0,
+    "reverbMix": 0.3,
+    "eq": [0,0,0,0,0,0,0,0,0,0]
+  },
+  {
+    "name": "Bass Boost",
+    "preamp": 2,
+    "panner": 0,
+    "reverbMix": 0.2,
+    "eq": [6,5,4,2,0,-1,-2,-3,-4,-4]
+  },
+  {
+    "name": "Vocal Boost",
+    "preamp": 1,
+    "panner": 0,
+    "reverbMix": 0.15,
+    "eq": [0,0,0,-1,2,4,3,1,0,0]
+  },
+  {
+    "name": "Electronic",
+    "preamp": 3,
+    "panner": 0,
+    "reverbMix": 0.35,
+    "eq": [5,4,2,0,-2,2,5,6,5,3]
+  }
+]
